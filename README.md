@@ -4,7 +4,15 @@ Hi 👋 My name is Yehor Tymchenko
 Junior Front End Developer
 --------------------------
 
-While I was studying in National Transport University, I'm interesting in building some algorithms. After time and life experience, I realized that my interest in algorithms, thinking through technical problems ahead, love to find answers to my questions can help me become a Front End Developer. In 2023, I started studying programming at SkillUp School, where I gained knowledge in working with HTML, CSS, SASS, LESS preprocessors, GULP, JavaScript, Typescript, Angular, Webpack, Git and much more.
+During my time at the National Transport University, I developed a keen interest in building algorithms. As I progressed through my studies and gained valuable life experiences, I realized that my passion for algorithms, problem-solving, and a strong desire to seek answers to challenging questions could be leveraged in becoming a skilled Front End Developer.
+
+In 2023, I took a proactive step to pursue my passion and enrolled at SkillUp School, where I honed my programming skills. I acquired hands-on experience working with a diverse tech stack, including HTML, CSS, SASS, LESS preprocessors, GULP, JavaScript, Typescript, Angular, Webpack, and Git, among other relevant technologies.
+
+Throughout my learning journey, I have been enthusiastically taking up various projects to apply my knowledge practically. This experience has not only strengthened my technical abilities but also fostered my creativity and adaptability to deliver user-friendly and visually appealing web solutions.
+
+I am now actively seeking opportunities to contribute my skills and dedication as a Front End Developer, where I can collaborate with a dynamic team to create exceptional digital experiences. I am committed to staying up-to-date with industry trends and continuously improving my craft to deliver cutting-edge solutions.
+
+I look forward to connecting with innovative companies and like-minded professionals who share a passion for delivering top-notch web experiences.
 
 * 🌍  I'm based in Ukraine, but carrently I'm plased in Poland
 * ✉️  You can contact me at [egortimchenko94@gmail.com](mailto:egortimchenko94@gmail.com)
